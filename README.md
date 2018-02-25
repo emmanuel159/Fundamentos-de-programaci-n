@@ -11,6 +11,6 @@ return 0;
 
 int main(){
   printf("\nHola Mundo");
-  printf("\nFernada Fragoso\n")
+  printf("\nEmmanuel Enriquez\n")
   return 0;
 }
